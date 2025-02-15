@@ -1,9 +1,4 @@
 # CBTC-project2 
-1. *Front-End Developer Intern | Building Engaging E-Commerce Experiences*  
-2. *Web Development Enthusiast | HTML, CSS & JavaScript | UI/UX Focused*  
-3. *Creating Seamless & Interactive Websites | Passionate About Code & Design*  
-4. *E-Commerce Web Developer | Turning Ideas into Reality with Code*  
-5. *Front-End Engineer in the Making | CipherByte Technologies Intern*  
 
 Learing :  
 "As a Front-End Developer Intern at CipherByte Technologies, I specialize in crafting dynamic and user-friendly e-commerce websites using HTML, CSS, and JavaScript. 
